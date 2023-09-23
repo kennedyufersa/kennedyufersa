@@ -45,7 +45,11 @@ A depender da linguagem que estou trabalhando, utilizo diferentes editores. O pr
 
 ### Estatísticas:
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=kennedyufersa)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennedyufersa&show_icons=true)
+
+
 ### Contatos:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kennedy.lopes@gmail.com)
