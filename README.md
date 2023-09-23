@@ -3,6 +3,7 @@
 
 Atualmente sou professor da disciplina de Algoritmos e Estrutura de Dados II da UFERSA, campus de Pau dos Ferros. Como também acumulo a função de coordenador do curso de BTI, acompanho a turma de Seminário de Introdução ao curso. 
 
+
 ### Preferência em linguagens e ambiente de trabalho
 
 As linguagens de programação que tenho mais familiaridade são:
@@ -42,8 +43,9 @@ A depender da linguagem que estou trabalhando, utilizo diferentes editores. O pr
 
 
 
+### Estatísticas:
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennedyufersa&show_icons=true)
 ### Contatos:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kennedy.lopes@gmail.com)
