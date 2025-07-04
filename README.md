@@ -39,7 +39,7 @@ A depender da linguagem que estou trabalhando, utilizo diferentes editores. O pr
 |           |               |           |
 | --------- | ------------- | --------- |
 | ⚽ Futebol | Tênis de mesa | 🏊 Natação |
-|📖Estudar|🏃 Correr|📺 Series|
+|📖Estudar|🏃 Correr|~~📺 Series~~|
 
 
 
