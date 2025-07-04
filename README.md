@@ -15,7 +15,7 @@
 ### 🚀 Sobre mim
 
 Sou apaixonado por tecnologia, sempre em busca de novos desafios e aprendizado constante. Transformo linhas de código em soluções criativas!  
-~~Atualmente, sou professor de Algoritmos e Estrutura de Dados II na UFERSA (Pau dos Ferros) e coordenador do curso de BTI.~~
+Atualmente, sou professor de Algoritmos e Estrutura de Dados II na UFERSA (Pau dos Ferros) ~~e coordenador do curso de BTI.~~
 
 ---
 
